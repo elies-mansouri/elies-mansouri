@@ -26,7 +26,7 @@ When I'm not training models or debugging systems, I can be found playing chess 
 
 <img src="https://raw.githubusercontent.com/elies-mansouri/elies-mansouri/main/assets/flag-china.svg" width="30"> &nbsp;
 <img src="https://raw.githubusercontent.com/elies-mansouri/elies-mansouri/main/assets/flag-spain.svg" width="30"> &nbsp;
-<img src="https://raw.githubusercontent.com/elies-mansouri/elies-mansouri/main/assets/flag-saudi-arabia.svg" width="30">
+<img src="https://raw.githubusercontent.com/elies-mansouri/elies-mansouri/main/assets/flag-arabic.svg" width="30">
 
 ---
 
