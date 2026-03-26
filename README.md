@@ -73,9 +73,15 @@ When I'm not training models or debugging systems, I can be found playing chess 
 ## 📫 Reach me
 
 <h5 align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliesmansouri/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/elies.mansouri)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/eliesmansouri)
-
+  <a href="https://www.linkedin.com/in/eliesmansouri/">
+    <img width="45" src="https://raw.githubusercontent.com/elies-mansouri/elies-mansouri/main/assets/linkedin.svg">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/elies.mansouri">
+    <img width="45" src="https://raw.githubusercontent.com/elies-mansouri/elies-mansouri/main/assets/discord.svg">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/eliesmansouri">
+    <img width="45" src="https://raw.githubusercontent.com/elies-mansouri/elies-mansouri/main/assets/kaggle.svg">
+  </a>
 </h5>
