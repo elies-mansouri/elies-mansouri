@@ -14,11 +14,11 @@
 
 ## 🧔🏽 About me
 
-I'm from France 🇫🇷, working all over the world 🌍. Passionate about **AI**, **mechatronics**, **mathematics** and **physics** — the kind of engineer who likes to understand how things work, from the model to the motor.
+I'm from France 🇫🇷, working all over the world 🌍. Passionate about **AI**, **mechatronics**, **mathematics** and **physics**, the kind of engineer who likes to understand how things work, from the model to the motor.
 
 When I'm not training models or debugging systems, I can be found playing chess ♟️, snowboarding 🏂, lifting weights 🏋️, and spending time with my amazing wife Lyliane ❤️.
 
-🔭 Currently building **Tamusni.ai** — rethinking how knowledge is stored, verified and shared in the age of AI.
+🔭 Currently building **Tamusni.ai** : rethinking how knowledge is stored, verified and shared in the age of AI.
 
 ---
 
